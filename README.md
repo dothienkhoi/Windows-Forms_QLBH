@@ -1,8 +1,13 @@
 Windows Forms .Net 8.0
+
 Quản Lý Phần Mềm
+
 Dự Án: Xưởng Phần Mềm
+
 Tiến hành điều phối dự án, lập kế hoạch và triển khai hàng ngày giữa các đội nhóm
 Biên soạn tài liệu ứng dụng kỹ thuật và chức năng
+
+
 #Một Số Hình Ảnh
 ![Screenshot 2025-04-18 102814](https://github.com/user-attachments/assets/6faebedf-ce76-46a7-bf48-23211f0fbffe)
 ![Screenshot 2025-04-18 102835](https://github.com/user-attachments/assets/51fd9985-975c-4cc1-bb78-a0225ec0aec4)
